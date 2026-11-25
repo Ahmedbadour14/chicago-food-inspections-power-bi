@@ -44,7 +44,7 @@ A 5-page Power BI report on Chicago food inspection results. It looks at how oft
 
 ## Open it
 
-1. Download this repo. Extract `ChicagoFoodSafety-project.zip` into a folder, and keep the `data` folder somewhere on your machine. A short folder path avoids problems.
+1. Download this repo. Extract `ChicagoFoodSafety-project.zip` and `data.zip` (the two CSV files) into folders on your machine. A short folder path avoids problems.
 2. Open `ChicagoFoodSafety/ChicagoFoodSafety.pbip` in a current Power BI Desktop.
 3. The `DataFolder` parameter is set to `D:\My Portfolio\ChicagoFoodSafety\data` (the author's machine). Under Transform data, edit it to the full path of your `data` folder, then Refresh.
 
